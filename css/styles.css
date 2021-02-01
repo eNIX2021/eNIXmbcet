@@ -84,6 +84,12 @@ p {
   color: white;
 }
 
+.cont {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+
 /* Bottom left text */
 .bottom-left {
   position: absolute;
